@@ -144,7 +144,7 @@ Example run done with GSE285099. (Szachowicz, P. J. et al, _iScience_, 2025)
 6 CF donors, vs 6 non-CF donors, human bronchial epithelium cells, paired-end reads.
 Exact runs:
 
-Control
+Control:
 SRR31795696
 SRR31795697
 SRR31795698
