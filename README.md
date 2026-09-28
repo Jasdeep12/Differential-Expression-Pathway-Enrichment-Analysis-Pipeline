@@ -193,7 +193,7 @@ The pipeline generated:
 
 - Example uses N = 6, which is a modest sample size, and its results should be taken as exploratory rather as clinically definitive.
 
-- Gene ID mapping (Ensemlb -> gene symbol) was done with multivals = "first", with rare one to many mappings done to the first hit. Certain gene symbols may be arbitrarily chosen among certain valid alternatives.
+- Gene ID mapping (Ensembl -> gene symbol) was done with multivals = "first", with rare one to many mappings done to the first hit. Certain gene symbols may be arbitrarily chosen among certain valid alternatives.
 
 
 ## Project Structure
