@@ -49,7 +49,7 @@ conda env create -f envs/deseq2.yml
 python add_sample.py fetch SRR31795696 --name cf_donor1
 
 # Multiple accessions at once
-python add_sample.py fetchall SRR31795696 SRR31795697 --name cf_donor1 --name cf_donor2
+python add_sample.py fetchall SRR31795672 SRR31795673 --name cf_donor1 --name cf_donor2
 
 # Already-downloaded local FASTQs
 python add_sample.py local data/raw/
