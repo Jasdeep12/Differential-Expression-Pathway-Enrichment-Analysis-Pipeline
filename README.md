@@ -231,6 +231,15 @@ RNASeqPipelineProject/
 | - volcano.R
 | - gsea.R
 ```
+## Future Work
+
+In the future, I would like implement measures to improve accuracy and switch to (or at least provide the option for different alignment strategies).
+### Plans
+- Transcript-level Pseudo-Alignment using Salmon
+- UMI Dedup
+- Automatic Strandedness Inference
+- Post-processing using Picard
+
 ## Citations
 
 Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome biology, 15(12), 550. https://doi.org/10.1186/s13059-014-0550-8
