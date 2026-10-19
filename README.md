@@ -25,7 +25,7 @@ Input : Fastq (from CLI fetch/fetchall/local) -> samples.tsv
 -> ReadQC and Trimming (Fastp)
 -> Alignment (HISAT2 and SAMtools)
 -> Quantification (featureCounts)
--> Differnential Expression (DESeq2) -> Volcano plot
+-> Differential Expression (DESeq2) -> Volcano plot
 -> Enrichment (clusterProfiler, msigdbr) -> Bar plot
 
 The pipeline automatically branches when dealing with single-end vs. paired-end reads. Therefore mixed-layout datasets can be run without manual intervention.
